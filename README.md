@@ -1,4 +1,4 @@
-# rollup-static-starter
+# rollup-starter-app-example
 
 This repo contains a bare-bones example of how to create a library using Rollup, including importing a module from `node_modules` and converting it from CommonJS.
 
